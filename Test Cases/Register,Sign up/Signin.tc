@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Signin</name>
+   <tag></tag>
+   <comment>Signing to the MCCC application if we have already Registered account</comment>
+   <testCaseGuid>20236bcf-0cc7-4d6c-b15d-2bd31ec81f5d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a78d95d5-3c64-4118-99cf-d96f04316259</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>59ab900b-47cf-42dd-acb2-6c5c5011b421</id>
+      <masked>false</masked>
+      <name>variable_0</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6937706f-0af6-4cf7-a209-e6a3feb29b6e</id>
+      <masked>false</masked>
+      <name>variable_1</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ad86ed3f-6229-4df8-9df2-33c733214be2</id>
+      <masked>false</masked>
+      <name>variable_2</name>
+   </variable>
+</TestCaseEntity>

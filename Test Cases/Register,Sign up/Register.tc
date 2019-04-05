@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Register</name>
+   <tag></tag>
+   <comment>Registering in MCCC Application</comment>
+   <testCaseGuid>d44124d3-6957-4df3-a58f-df764ec5bb23</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Billing Adress Details</name>
+   <tag></tag>
+   <comment>Entering Billing adress Details</comment>
+   <testCaseGuid>a73bea5b-8cc4-47ad-88da-765696e4efb1</testCaseGuid>
+</TestCaseEntity>
